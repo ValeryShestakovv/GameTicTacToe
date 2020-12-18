@@ -35,16 +35,29 @@ C:\Users\Aleksey\source\repos\game-tic-tac-toe\GameTicTacToe\obj\Debug\GameTicTa
 C:\Users\Aleksey\source\repos\game-tic-tac-toe\GameTicTacToe\obj\Debug\GameTicTacToe.exe
 C:\Users\Aleksey\source\repos\game-tic-tac-toe\GameTicTacToe\obj\Debug\GameTicTacToe.pdb
 C:\Users\Aleksey\source\repos\game-tic-tac-toe\GameTicTacToe\obj\Debug\GameTicTacToe.csprojAssemblyReference.cache
-C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\game-tic-tac-toe-master\GameTicTacToe\bin\Debug\GameTicTacToe.exe.config
-C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\game-tic-tac-toe-master\GameTicTacToe\bin\Debug\GameTicTacToe.exe
-C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\game-tic-tac-toe-master\GameTicTacToe\bin\Debug\GameTicTacToe.pdb
-C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\game-tic-tac-toe-master\GameTicTacToe\bin\Debug\System.Drawing.Primitives.dll
-C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\game-tic-tac-toe-master\GameTicTacToe\obj\Debug\GameTicTacToe.csprojAssemblyReference.cache
-C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\game-tic-tac-toe-master\GameTicTacToe\obj\Debug\GameTicTacToe.FormGame.resources
-C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\game-tic-tac-toe-master\GameTicTacToe\obj\Debug\GameTicTacToe.FormStart.resources
-C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\game-tic-tac-toe-master\GameTicTacToe\obj\Debug\GameTicTacToe.Properties.Resources.resources
-C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\game-tic-tac-toe-master\GameTicTacToe\obj\Debug\GameTicTacToe.csproj.GenerateResource.cache
-C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\game-tic-tac-toe-master\GameTicTacToe\obj\Debug\GameTicTacToe.csproj.CoreCompileInputs.cache
-C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\game-tic-tac-toe-master\GameTicTacToe\obj\Debug\GameTicTacToe.csproj.CopyComplete
-C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\game-tic-tac-toe-master\GameTicTacToe\obj\Debug\GameTicTacToe.exe
-C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\game-tic-tac-toe-master\GameTicTacToe\obj\Debug\GameTicTacToe.pdb
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801\GameTicTacToe\bin\Debug\GameTicTacToe.exe.config
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801\GameTicTacToe\bin\Debug\GameTicTacToe.exe
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801\GameTicTacToe\bin\Debug\GameTicTacToe.pdb
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801\GameTicTacToe\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801\GameTicTacToe\obj\Debug\GameTicTacToe.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801\GameTicTacToe\obj\Debug\GameTicTacToe.FormGame.resources
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801\GameTicTacToe\obj\Debug\GameTicTacToe.FormStart.resources
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801\GameTicTacToe\obj\Debug\GameTicTacToe.Properties.Resources.resources
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801\GameTicTacToe\obj\Debug\GameTicTacToe.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801\GameTicTacToe\obj\Debug\GameTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801\GameTicTacToe\obj\Debug\GameTicTacToe.csproj.CopyComplete
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801\GameTicTacToe\obj\Debug\GameTicTacToe.exe
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801\GameTicTacToe\obj\Debug\GameTicTacToe.pdb
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801 (С коментариями)\GameTicTacToe\bin\Debug\GameTicTacToe.exe.config
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801 (С коментариями)\GameTicTacToe\bin\Debug\GameTicTacToe.exe
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801 (С коментариями)\GameTicTacToe\bin\Debug\GameTicTacToe.pdb
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801 (С коментариями)\GameTicTacToe\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801 (С коментариями)\GameTicTacToe\obj\Debug\GameTicTacToe.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801 (С коментариями)\GameTicTacToe\obj\Debug\GameTicTacToe.FormGame.resources
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801 (С коментариями)\GameTicTacToe\obj\Debug\GameTicTacToe.FormStart.resources
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801 (С коментариями)\GameTicTacToe\obj\Debug\GameTicTacToe.Properties.Resources.resources
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801 (С коментариями)\GameTicTacToe\obj\Debug\GameTicTacToe.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801 (С коментариями)\GameTicTacToe\obj\Debug\GameTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801 (С коментариями)\GameTicTacToe\obj\Debug\GameTicTacToe.csproj.CopyComplete
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801 (С коментариями)\GameTicTacToe\obj\Debug\GameTicTacToe.exe
+C:\Users\1\Desktop\Учебка\Папка для 2 предметов Лейхтера\Проектировние Шестаков СПБ-801 (С коментариями)\GameTicTacToe\obj\Debug\GameTicTacToe.pdb

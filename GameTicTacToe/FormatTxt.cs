@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace GameTicTacToe
 {
+    /// <summary>
+    /// Запись формата xml
+    /// </summary>
     public class FormatTxt : IFormatTxt
     {
         public string write(IEnumerable saves)

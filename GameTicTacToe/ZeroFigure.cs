@@ -20,6 +20,7 @@ namespace GameTicTacToe
         }
         protected override void calc(int _x, int _y)
         {
+            // graphics.DrawEllipse(pen, (125 * x) + 10, (125 * y) + 10, 105, 105);
             x = (125 * _x) + 10;
             y = (125 * _y) + 10;
         }

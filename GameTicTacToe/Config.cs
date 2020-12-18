@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace GameTicTacToe
 {
+    /// <summary>
+    /// Конфигурация
+    /// </summary>
     public class Config
     {
         private static Config instance;
-
+        /// <summary>
+        /// Наименования приложения
+        /// </summary>
         public string nameApp { get; private set; }
 
         public Config(string _nameApp)

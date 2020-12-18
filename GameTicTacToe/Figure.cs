@@ -7,6 +7,9 @@ using System.Drawing;
 
 namespace GameTicTacToe
 {
+    /// <summary>
+    /// Геометрическая фигура
+    /// </summary>
     public abstract class Figure
     {
         public IColorFigure colorFigure;
@@ -26,6 +29,10 @@ namespace GameTicTacToe
         {
             color = colorFigure.getColor();
         }
+        /// <summary>
+        /// Вычисление параметров фигуры
+        /// </summary>
+        /// <param name="section">Номер секции</param>
         protected abstract void calc(int x, int y);
     }
 }

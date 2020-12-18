@@ -8,6 +8,9 @@ using System.Xml.Linq;
 
 namespace GameTicTacToe
 {
+    /// <summary>
+    /// Ведение статистики
+    /// </summary>
     class Statistic
     {
         public List<string[]> saves;

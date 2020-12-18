@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace GameTicTacToe
 {
+    /// <summary>
+    /// Вертикальная линия
+    /// </summary>
     public class LineVertical : ILine
     {
         Graphics graphics;

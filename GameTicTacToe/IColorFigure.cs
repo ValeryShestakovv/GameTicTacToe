@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace GameTicTacToe
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public interface IColorFigure 
     {
         System.Drawing.Color getColor();

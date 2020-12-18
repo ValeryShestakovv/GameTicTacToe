@@ -12,9 +12,22 @@ namespace GameTicTacToe
 {
     public partial class FormStart : Form
     {
+        /// <summary>
+        /// Игровой персонаж
+        /// </summary>
         public Gamer gamerUser { get; set; }
+        /// <summary>
+        /// Игровой профиль пользователя
+        /// </summary>
         public GameProfile gameProfile { get; set; }
+        /// <summary>
+        /// Старт игры
+        /// </summary>
         public bool isStart;
+        /// <summary>
+        /// Начать игру
+        /// </summary>
+        /// <param name="_gameProfile"></param>
         public FormStart()
         {
             isStart = false;

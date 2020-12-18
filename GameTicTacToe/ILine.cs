@@ -10,9 +10,20 @@ using System.Windows.Forms;
 
 namespace GameTicTacToe
 {
+    /// <summary>
+    /// Прототип для линии
+    /// </summary>
     public interface ILine
     {
+        /// <summary>
+        /// Клонирование
+        /// </summary>
+        /// <returns></returns>
         ILine Clone();
+        /// <summary>
+        /// Отрисовка
+        /// </summary>
+        /// <param name="x"></param>
         void draw(int x);
 
     }
